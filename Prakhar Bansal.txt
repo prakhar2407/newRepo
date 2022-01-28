@@ -1,0 +1,2 @@
+we are 
+We are another line to check with git bash
